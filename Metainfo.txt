@@ -1,0 +1,16 @@
+Name of QuantLet : BetaBoost
+
+Published in : 'Zieba, Maciej, and Wolfgang K. Härdle. "Beta-boosted ensemble for big credit scoring data." (2016).'
+
+Description : 'Procedure of constructing BetaBoost model for credit scoring problem. Two types of base models can be selected for the model. The quality of the model is evaluated by artificial dataset. The dataset was artificially created using separate multivariate gaussian distributions for each of the classes. The parameters for the distributions were estimated using Kaggle GMSC dataset.'
+
+Keywords : 'beta boost, ensemble classifier, beta binomial distribution, AdaCost, AdaBoost, credit scoring'
+
+Author : Maciej Zieba
+
+Submitted : 7, Dec, 2016
+
+Datafile : 'data.csv'
+
+Example :
+- Case study of artificial data
